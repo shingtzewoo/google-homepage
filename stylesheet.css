@@ -1,9 +1,11 @@
 #logo {
   margin: 150px auto;
   position: relative;
-  height: 220px;
-  background: url(http://dc736.4shared.com/img/Y2lm5PYece/s7/151f2b7d280/nav_logo242) no-repeat;
-  background-position: 0% 106.5%;;
+  height: 92px;
+  width: 272px;
+  background: url(http://res.cloudinary.com/demo/image/fetch/fl_png8/https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png) no-repeat;
+  background-size: 272px 92px;
+  top: -70px;
 }
 img {
   display: block;
